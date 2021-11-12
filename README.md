@@ -2,8 +2,9 @@
 
 This is a custom map for https://geoguessr.tk
 
-Possible locations are all the towns which are namesakes for [LaTeX Beamer themes](https://github.com/josephwright/beamer/tree/main/base/themes/theme)
-(to make them easier to recognise, the maps mostly contains the inner parts of the cities. Bounderies are only rough approximations, in particular in urban areas with grown together cities, the shape might not follow the actual town boarders)
+Possible locations are all the towns which are namesakes for [LaTeX Beamer themes](https://github.com/josephwright/beamer/tree/main/base/themes/theme) 
+
+<sub>To make them easier to recognise, the maps mostly contain the inner parts of the towns. Caveat: Bounderies are only rough approximations, in particular in urban areas with grown together cities, the shape might not follow the actual town boarders.</sub>
 
 # How to play?
 
